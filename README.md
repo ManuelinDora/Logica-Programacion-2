@@ -45,10 +45,10 @@
 
 ---
 
-## 👨‍💻 Autor
+## 👤 Autor
 
-- [Tu Nombre o Usuario de GitHub aquí]
+[ManuelinDora](https://github.com/ManuelinDora)
 
 ---
 
-¡Gracias por visitar este proyecto! 🚀
+¡Siéntete libre de mejorar este proyecto, hacer un fork y experimentar! 🚀
